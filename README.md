@@ -16,7 +16,7 @@ Given a genetic sequence, output the corresponding base-10 number. Likewise, giv
 The Input:
 The first line of the input will contain a positive integer, q, representing the number of sequences to convert. The next q lines will contain either an integer, n (1 ≤ n ≤ 230-1), which represents a base-10 number and is guaranteed to have no leading zeroes, or a genetic sequence (represented by a string of the characters 'A','C','G' and/or 'T', and guaranteed to have no leading A‘s), between 1 and 15 characters in length.
 The Output:
-For each sequence, output the header ―Sequence #j: ‖ where j represents the sequence being processed (beginning with 1). Following the header, output either the corresponding genetic sequence for the integer given, or the corresponding base-10 number for the genetic sequence. The output for each sequence should each be on its own output line.
+For each sequence, output the header "Sequence #j: " where j represents the sequence being processed (beginning with 1). Following the header, output either the corresponding genetic sequence for the integer given, or the corresponding base-10 number for the genetic sequence. The output for each sequence should each be on its own output line.
 Sample Input:
 -----------
 3
