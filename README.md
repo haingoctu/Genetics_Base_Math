@@ -1,5 +1,6 @@
-# Genetics_Base_Math
-program to practice base math
+# Genetics_Base_Math (program to practice base math)
+By Hai Tu
+Dr. Szumlanksi CS 1 2015 @UCF
 
 
 The biology lab at UCF has recently been having problems transmitting genetic sequences between computers.
